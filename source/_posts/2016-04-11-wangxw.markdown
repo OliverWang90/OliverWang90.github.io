@@ -1,0 +1,10 @@
+---
+layout: post
+title: "学习搭建博客"
+date: 2016-04-11 14:39:10 +0800
+comments: true
+categories: [Java,HTML]
+---
+
+# 你好我的第一个博客
+## 你可以学到你想学习的
